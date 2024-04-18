@@ -39,13 +39,6 @@ git clone https://github.com/SergyBIT1/posmotri_v_okno.git
 - npm i prettier
 - npm i stylelint
 
-npm init
-
-**Установка зависимостей**
-
-- npm i prettier
-- npm i stylelint
-
 **Автор**
 
 - Зуев Сергей
